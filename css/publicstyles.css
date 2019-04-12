@@ -1,0 +1,74 @@
+body {
+
+}
+
+.navbar {
+  padding: 0.1rem 1rem;
+}
+
+.navbar-nav li {
+  font-weight: bold;
+  font-family: Bitter, Georgia, Times, "Times New Roman", serif;
+  font-size: 1.2em;
+}
+
+.sidebarpost {
+    background-color: #f5f5f5;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.sidebarpost h4 {
+  text-align: center;
+}
+
+.description {
+    color: #868686;
+    font-weight: bold;
+}
+
+.heading {
+  font-family: Bitter, Georgia, "Times New Roman", Times, Serif;
+  font-weight: bold;
+  color: #005e90;
+}
+
+.heading:hover {
+  font-family: Bitter, Georgia, "Times New Roman", Times, Serif;
+  font-weight: bold;
+  color: #0090db;
+}
+
+.post {
+  font-size: 1.1em;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: justify;
+}
+
+.blogpost {
+  margin-bottom: 30px;
+  display: table;
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 0.25rem;
+}
+
+.footer  {
+  background-color: #211f22;
+  /* color: #fff; */
+  padding: 10px;
+  /* text-align: center; */
+}
+
+.footer p {
+  /* background-color: #211f22; */
+  color: #fff;
+  margin: 10px;
+  text-align: center;
+}
